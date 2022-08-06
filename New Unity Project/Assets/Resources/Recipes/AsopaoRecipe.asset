@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f33e9843876ff2f43a4f4a7396b11360, type: 3}
+  m_Name: AsopaoRecipe
+  m_EditorClassIdentifier: 
+  requiredIngredients:
+  - ingredient: {fileID: 11400000, guid: bb966cadb86c31344b0ee63c59b29dd6, type: 2}
+    ingredientQuantity: 1
+  - ingredient: {fileID: 11400000, guid: a33db5e93496dce44bd7fd4d9967779b, type: 2}
+    ingredientQuantity: 1
+  - ingredient: {fileID: 11400000, guid: d81af974e8373cc46adb7f42cfc213e6, type: 2}
+    ingredientQuantity: 1
+  - ingredient: {fileID: 11400000, guid: 4ea8e46b1edb6824fad8d3f6b8b53ac4, type: 2}
+    ingredientQuantity: 1
+  - ingredient: {fileID: 11400000, guid: 79d5be65c460d4b42b110ca05977e9e3, type: 2}
+    ingredientQuantity: 1
+  - ingredient: {fileID: 11400000, guid: bb134d80a367e5f48b2ec2a2a79cfe99, type: 2}
+    ingredientQuantity: 1
+  - ingredient: {fileID: 11400000, guid: cd72de29bfabd694493a8ef09aebd3a6, type: 2}
+    ingredientQuantity: 1
+  cookedRecipeItem:
+    ingredient: {fileID: 11400000, guid: 8d0fb37e13a97534684ebcc27fb0cd75, type: 2}
+    ingredientQuantity: 10
